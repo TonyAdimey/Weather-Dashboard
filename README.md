@@ -8,6 +8,6 @@ When you load into the webpage there will be a search bar on the left of the scr
 
 ## Webpage
 
-![DeployedPage](images/weatherdashboardpicture.png)
+![DeployedPage](image/weatherdashboardpicture.png)
 
 The link to the [Website]()
